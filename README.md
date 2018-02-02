@@ -1,4 +1,5 @@
-# hello-world
-just a example
+# hello-LintCode
 Hi,humans!
-Hubot here,I like Node.js and Coffeescript
+I like Coding!!!!
+YES, you did not get it wrong！
+JUST DO IT!
