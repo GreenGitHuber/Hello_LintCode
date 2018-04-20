@@ -1,5 +1,3 @@
 # hello-LintCode
-Hi,humans!
-I like Coding!!!!
-YES, you did not get it wrong！
-JUST DO IT!
+
+把学习 数据结构 和 算法 的知识mark上来
